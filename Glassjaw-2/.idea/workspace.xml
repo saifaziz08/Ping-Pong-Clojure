@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ca63ff2-26f0-448b-b166-ee8b5ac48976" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/RELEASE-NOTES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/ComicSansMS-48.vlw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/SimpleShader.glsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/grey-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/quil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/abs-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/acos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/alpha-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/ambient-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/ambient-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/apply-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/arc-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/asin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/atan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/atan2-s-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/available-fonts-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/background-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/background-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/begin-contour-end-contour-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/begin-raw-end-raw-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/begin-shape-end-shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/begin-shape-end-shape-in-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/bezier-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/bezier-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/bezier-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/bezier-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/bezier-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/bezier-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/binary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/blend-color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/blend-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/blend-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/blue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/box-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/brightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/camera-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/ceil-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/clear-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/clip-no-clip-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/color-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/constrain-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/copy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/cos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/create-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/create-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/create-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/current-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/current-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/current-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/cursor-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/cursor-no-cursor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/curve-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/curve-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/curve-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/curve-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/curve-tightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/curve-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/degrees-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/delay-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/directional-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/display-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/display-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/dist-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/do-record-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/ellipse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/ellipse-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/emissive-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/exit-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/exp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/filter-shader-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/floor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/focused-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/font-available?-s-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/frame-count-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/frustum-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/get-pixel-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/green-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/height-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/hex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/hint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/hue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/image-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/image-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/keyboard-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/lerp-color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/lerp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/light-falloff-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/light-specular-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/lights-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/line-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/load-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/load-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/log-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/mag-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/map-range-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/mask-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/mouse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/no-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/no-lights-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/no-loop-start-loop-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/no-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/no-tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/noise-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/norm-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/ortho-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/perspective-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/pixel-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/pixels-update-pixels-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/point-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/pow-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/print-camera-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/print-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/push-matrix-pop-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/push-style-pop-style-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/quad-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/quadratic-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/radians-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/random-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/rect-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/rect-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/red-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/redraw-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/reset-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/resize-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/rotate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/rotate-x-y-z-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/round-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/saturation-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/save-frame-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/scale-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/screen-height-screen-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/set-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/set-state-state-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/shape-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/shear-x-y-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/shininess-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/sin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/smooth-no-smooth-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/specular-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/sphere-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/sphere-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/spot-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/sq-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/sqrt-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/stroke-cap-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/stroke-join-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/stroke-weight-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/tan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-align-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-ascent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-char-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-descent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-leading-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-num-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-size-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/text-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/texture-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/texture-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/texture-wrap-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/translate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/triangle-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/unbinary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/unhex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-rotation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-rotation-3d-around-x-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-rotation-3d-around-xy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-translation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/normal/with-translation-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/abs-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/acos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/alpha-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/ambient-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/ambient-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/apply-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/arc-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/asin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/atan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/atan2-s-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/available-fonts-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/background-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/background-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/begin-contour-end-contour-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/begin-raw-end-raw-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/begin-shape-end-shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/begin-shape-end-shape-in-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/bezier-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/bezier-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/bezier-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/bezier-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/bezier-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/bezier-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/binary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/blend-color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/blend-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/blend-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/blue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/box-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/brightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/camera-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/ceil-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/clear-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/clip-no-clip-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/color-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/constrain-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/copy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/cos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/create-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/create-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/create-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/current-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/current-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/current-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/cursor-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/cursor-no-cursor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/curve-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/curve-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/curve-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/curve-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/curve-tightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/curve-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/degrees-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/delay-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/directional-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/display-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/display-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/dist-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/do-record-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/ellipse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/ellipse-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/emissive-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/exit-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/exp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/filter-shader-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/floor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/focused-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/font-available?-s-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/frame-count-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/frame-rate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/frustum-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/get-pixel-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/green-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/height-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/hex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/hint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/hue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/image-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/image-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/keyboard-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/lerp-color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/lerp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/light-falloff-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/light-specular-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/lights-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/line-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/load-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/load-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/load-shader-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/log-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/mag-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/map-range-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/mask-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/mouse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/no-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/no-lights-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/no-loop-start-loop-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/no-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/no-tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/noise-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/norm-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/ortho-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/perspective-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/pixel-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/pixels-update-pixels-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/point-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/pow-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/print-camera-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/print-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/push-matrix-pop-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/push-style-pop-style-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/quad-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/quadratic-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/radians-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/random-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/rect-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/rect-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/red-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/redraw-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/reset-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/resize-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/rotate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/rotate-x-y-z-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/round-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/saturation-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/save-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/save-frame-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/scale-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/screen-height-screen-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/set-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/set-state-state-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/shape-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/shear-x-y-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/shininess-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/sin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/smooth-no-smooth-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/specular-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/sphere-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/sphere-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/spot-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/sq-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/sqrt-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/stroke-cap-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/stroke-join-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/stroke-weight-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/tan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-align-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-ascent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-char-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-descent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-leading-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-num-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-size-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/text-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/texture-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/texture-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/texture-wrap-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/translate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/triangle-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/unbinary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/unhex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-rotation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-rotation-3d-around-x-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-rotation-3d-around-xy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-translation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/clj/retina/with-translation-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/abs-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/acos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/alpha-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ambient-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ambient-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/angle-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/apply-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/arc-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/asin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/atan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/atan2-s-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/background-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/background-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/begin-contour-end-contour-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/begin-shape-end-shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/begin-shape-end-shape-in-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/bezier-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/bezier-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/bezier-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/bezier-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/bezier-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/bezier-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/binary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/blend-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/blend-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/blue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/box-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/brightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/camera-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ceil-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/clear-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/color-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/color-mode-hsl-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/cone-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/constrain-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/copy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/cos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/create-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/create-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/current-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/current-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/current-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/cursor-no-cursor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/curve-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/curve-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/curve-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/curve-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/curve-tightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/curve-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/cylinder-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/degrees-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/directional-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/display-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/display-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/dist-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ellipse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ellipse-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ellipsoid-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/exit-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/exp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/floor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/focused-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/frame-count-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/get-pixel-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/green-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/height-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/hex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/hue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/image-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/image-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/keyboard-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/lerp-color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/lerp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/light-falloff-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/lightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/lights-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/line-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/load-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/load-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/log-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/mag-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/map-range-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/mask-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/mouse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/no-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/no-loop-start-loop-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/no-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/no-tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/noise-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/norm-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/orbit-control-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/ortho-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/perspective-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/pixel-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/pixels-update-pixels-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/point-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/pow-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/push-matrix-pop-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/push-style-pop-style-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/quad-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/quadratic-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/radians-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/random-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/rect-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/rect-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/red-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/redraw-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/reset-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/resize-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/rotate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/rotate-x-y-z-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/round-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/saturation-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/scale-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/set-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/set-state-state-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/shear-x-y-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/shininess-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/sin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/smooth-no-smooth-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/specular-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/sphere-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/sq-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/sqrt-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/stroke-cap-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/stroke-join-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/stroke-weight-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/tan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-align-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-ascent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-descent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-leading-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-size-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-style-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/text-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/texture-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/torus-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/translate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/triangle-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/unbinary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/unhex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-rotation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-rotation-3d-around-x-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-rotation-3d-around-xy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-translation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/normal/with-translation-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/abs-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/acos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/alpha-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ambient-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ambient-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/angle-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/apply-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/arc-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/asin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/atan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/atan2-s-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/background-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/background-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/begin-contour-end-contour-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/begin-shape-end-shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/begin-shape-end-shape-in-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/bezier-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/bezier-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/bezier-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/bezier-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/bezier-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/bezier-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/binary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/blend-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/blend-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/blue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/box-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/brightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/camera-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ceil-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/clear-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/color-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/color-mode-hsl-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/cone-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/constrain-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/copy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/cos-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/create-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/create-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/current-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/current-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/current-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/cursor-no-cursor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/curve-detail-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/curve-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/curve-point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/curve-tangent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/curve-tightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/curve-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/cylinder-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/degrees-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/directional-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/display-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/display-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/dist-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ellipse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ellipse-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ellipsoid-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/exit-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/exp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/floor-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/focused-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/frame-count-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/get-pixel-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/green-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/height-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/hex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/hue-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/image-filter-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/image-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/keyboard-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/lerp-color-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/lerp-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/light-falloff-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/lightness-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/lights-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/line-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/load-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/load-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/log-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/mag-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/map-range-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/mask-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/mouse-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/no-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/no-loop-start-loop-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/no-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/no-tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/noise-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/norm-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/orbit-control-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/ortho-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/perspective-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/pixel-density-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/pixels-update-pixels-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/point-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/point-light-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/pow-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/push-matrix-pop-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/push-style-pop-style-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/quad-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/quadratic-vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/radians-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/random-seed-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/rect-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/rect-mode-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/red-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/redraw-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/reset-matrix-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/resize-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/rotate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/rotate-x-y-z-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/round-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/saturation-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/scale-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/set-image-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/set-state-state-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/shape-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/shear-x-y-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/shininess-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/sin-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/smooth-no-smooth-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/specular-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/sphere-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/sq-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/sqrt-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/stroke-cap-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/stroke-join-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/stroke-weight-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/tan-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-align-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-ascent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-descent-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-font-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-leading-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-size-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-style-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/text-width-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/texture-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/tint-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/torus-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/translate-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/triangle-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/unbinary-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/unhex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/vertex-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-fill-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-graphics-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-rotation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-rotation-3d-around-x-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-rotation-3d-around-xy-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-stroke-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-translation-2d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/snippet-snapshots/cljs/retina/with-translation-3d-expected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/utils/docs.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/utils/snippets_generator.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/utils/snippets_generator.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/utils/snippets_generator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev-resources/waves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev/sample.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/dev/sample.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/docs/cheatsheet/cheat-sheet.dvi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/docs/cheatsheet/cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/docs/cheatsheet/cheat-sheet.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/docs/cheatsheet/cheat_sheet_gen.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/project.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/applet.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/helpers/applet_listener.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/helpers/calc.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/helpers/docs.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/helpers/drawing.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/helpers/seqs.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/middlewares/bind_output.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/middlewares/pause_on_error.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/middlewares/safe_fns.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/clj/quil/snippets/macro.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/core.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/middleware.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/middlewares/deprecated_options.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/middlewares/fun_mode.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/middlewares/navigation_2d.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/middlewares/navigation_3d.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/all_snippets.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/all_snippets_internal.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/color/creating_and_reading.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/color/setting.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/color/utility_macros.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/data/conversion.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/debugging.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/environment.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/image.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/image/loading_and_displaying.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/image/pixels.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/image/rendering.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/input.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/lights_camera/camera.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/lights_camera/lights.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/lights_camera/material_properties.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/math/calculation.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/math/random.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/math/trigonometry.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/output.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/rendering.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/shape/attributes.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/shape/curves.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/shape/loading_and_displaying.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/shape/primitives_2d.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/shape/primitives_3d.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/shape/vertex.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/state.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/structure.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/transform.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/transform/utility_macros.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/typography/attributes.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/typography/loading_and_displaying.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/snippets/typography/metrics.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljc/quil/util.cljc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljs/quil/helpers/tools.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljs/quil/sketch.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/src/cljs/quil/sketch.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/clj/fn_metas.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/clj/manual.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/clj/quil/helpers/docs_test.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/clj/quil/middlewares/safe_fns_test.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/clj/quil/snippet.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/clj/quil/test_util.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/cljs/quil/fullscreen.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/cljs/quil/manual.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/cljs/quil/snippet.cljs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/cljs/test_server.clj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/Heckert_GNU_white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/cursor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/octahedron.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/shader.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/shader.vert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quil/quil/test/html/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Quil/quil" />
+  </component>
+  <component name="ProjectId" id="1WF6LQ2sjiNAt4Y9oNGlGiiWuIR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Rest" />
+    <property name="cursive.last.file.extension.C\:/Users/saifa/IdeaProjects/Glassjaw-2" value="clj" />
+    <property name="cursive.last.file.extension.C\:/Users/saifa/IdeaProjects/Glassjaw-2/src" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saifa\IdeaProjects\Glassjaw-2\src\clj\players" />
+      <recent name="C:\Users\saifa\IdeaProjects\Glassjaw-2\src\clj" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1580434270824">{:repl-history {:ide [], :local [{:command &quot;(ns ping-pong\n    (:require [quil.core :as q])\n    )&quot;, :offset 52, :ns &quot;user&quot;} {:command &quot;(ns ping-pong\n    (:import [java.awt.event KeyEvent])\n    (:use [quil.core])\n    )&quot;, :offset 82, :ns &quot;ping-pong&quot;} {:command &quot;(defsketch pong\n           :title \&quot;noobtuts.com 2d pong game\&quot;\n           :size [450 200]\n           :setup (fn [] (smooth) (no-stroke) (frame-rate 60))\n           :draw (fn [] (update) (draw))\n           :key-pressed key-pressed)&quot;, :offset 229, :ns &quot;ping-pong&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core]))&quot;, :offset 73, :ns &quot;user&quot;} {:command &quot;(ping-pong/pong)&quot;, :offset 16, :ns &quot;ping-pong&quot;} {:command &quot;(ping-pong/draw)&quot;, :offset 16, :ns &quot;ping-pong&quot;} {:command &quot;(draw)&quot;, :offset 6, :ns &quot;ping-pong&quot;} {:command &quot;draw&quot;, :offset 4, :ns &quot;ping-pong&quot;} {:command &quot;(pong)&quot;, :offset 6, :ns &quot;ping-pong&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core]))\n\n(defn update []\n  ; nothing to update yet..\n  )\n\n; draw\n(defn draw []\n  ; set background color to dark gray, draw color to white\n  (background-float 0x20)\n  (fill 0xff))\n\n; input\n(defn key-pressed []\n  ; nothing to check yet...\n  )\n\n; run\n(defsketch pong\n           :title \&quot;noobtuts.com 2d pong game\&quot;\n           :size [450 200]\n           :setup (fn [] (smooth) (no-stroke) (frame-rate 60))\n           :draw (fn [] (update) (draw))\n           :key-pressed key-pressed)\n&quot;, :offset 544, :ns &quot;ping-pong&quot;} {:command &quot;(example)&quot;, :offset 9, :ns &quot;ping-pong&quot;} {:command &quot;example&quot;, :offset 7, :ns &quot;ping-pong&quot;} {:command &quot;(q/defsketch example                  ;; Define a new sketch named example\n             :title \&quot;Oh so many grey circles\&quot;    ;; Set the title of the sketch\n             :settings #(q/smooth 2)             ;; Turn on anti-aliasing\n             :setup setup                        ;; Specify the setup fn\n             :draw draw                          ;; Specify the draw fn\n             :size [323 200])&quot;, :offset 403, :ns &quot;ping-pong&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core :as q]))\n\n(defn setup []\n  (q/frame-rate 1)                    ;; Set framerate to 1 FPS\n  (q/background 200))                 ;; Set the background colour to\n;; a nice shade of grey.\n(defn draw []\n  (q/stroke (q/random 255))             ;; Set the stroke colour to a random grey\n  (q/stroke-weight (q/random 10))       ;; Set the stroke thickness randomly\n  (q/fill (q/random 255))               ;; Set the fill colour to a random grey\n\n  (let [diam (q/random 100)             ;; Set the diameter to a value between 0 and 100\n        x    (q/random (q/width))       ;; Set the x coord randomly within the sketch\n        y    (q/random (q/height))]     ;; Set the y coord randomly within the sketch\n    (q/ellipse x y diam diam)))         ;; Draw a circle at x y with the correct diameter\n\n(q/defsketch example                  ;; Define a new sketch named example\n             :title \&quot;Oh so many grey circles\&quot;    ;; Set the title of the sketch\n             :settings #(q/smooth 2)             ;; Turn on anti-aliasing\n             :setup setup                        ;; Specify the setup fn\n             :draw draw                          ;; Specify the draw fn\n             :size [323 200])    &quot;, :offset 1268, :ns &quot;ping-pong&quot;} {:command &quot;(def r-left (atom {:x 10 :y 65 :w 10 :h 70}))&quot;, :offset 45, :ns &quot;ping-pong&quot;} {:command &quot;r-left&quot;, :offset 6, :ns &quot;ping-pong&quot;} {:command &quot;( r-left :val)&quot;, :offset 14, :ns &quot;ping-pong&quot;} {:command &quot;(get r-left :val)&quot;, :offset 17, :ns &quot;ping-pong&quot;} {:command &quot;(get  :val r-left)&quot;, :offset 18, :ns &quot;ping-pong&quot;} {:command &quot;(r-left :x)&quot;, :offset 11, :ns &quot;ping-pong&quot;} {:command &quot;(:x r-left )&quot;, :offset 12, :ns &quot;ping-pong&quot;} {:command &quot;(:x r-left)&quot;, :offset 11, :ns &quot;ping-pong&quot;} {:command &quot;@r-left&quot;, :offset 7, :ns &quot;ping-pong&quot;} {:command &quot;(@r-left :x)&quot;, :offset 12, :ns &quot;ping-pong&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core :as q]))&quot;, :offset 79, :ns &quot;user&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core :as q]))\n\n\n\n(defn draw-rect [r]\n  (rect (:x r) (:y r) (:w r) (:h r)))\n(def r-left (atom {:x 10 :y 65 :w 10 :h 70}))\n(def r-right (atom {:x 430 :y 65 :w 10 :h 70}))\n(def ball (atom {:x 225 :y 100 :w 10 :h 10}))\n(def ball-dir (atom [1 0]))\n\n(defn hitfactor [r b]\n  (- (/ (- (:y b) (:y r))\n        (:h r))\n     0.5))\n\n(defn rect-intersects [racket ball]\n  (let [l1 {  :x (@racket :x)\n              :y (@racket :y)\n           }\n        r1 {  :x (+ (@racket :x) (@racket :w))\n              :y (+ (@racket :y) (@racket :h))\n           }\n        l2 {  :x (@ball :x)\n              :y (@ball :y)\n           }\n        r2 {  :x (+ (@ball :x) (@ball :w))\n              :y (+ (@ball :y) (@ball :h))\n           }\n        ]\n\n    (cond\n            (or (&gt; (l1 :x) (r2 :x)) (&gt; (l2 :x) (r1 :x))) false\n            (or (&lt; (l1 :y) (r2 :y)) (&lt; (l2 :y) (r1 :y))) false\n            :else true\n            )\n    )\n  )\n\n(defn key-pressed []\n  (cond\n    ; left\n    (= (key-code) KeyEvent/VK_W)\n    (swap! r-left update-in [:y] dec)\n    (= (key-code) KeyEvent/VK_S)\n    (swap! r-left update-in [:y] inc)\n    ; right\n    (= (key-code) KeyEvent/VK_UP)\n    (swap! r-right update-in [:y] dec)\n    (= (key-code) KeyEvent/VK_DOWN)\n    (swap! r-right update-in [:y] inc)))\n\n; here is the easy way to do it:\n(defn next-ball [ball dir]\n  (let [dx (first dir)\n        dy (second dir)]\n    (assoc ball :x (+ (:x ball) dx)\n                :y (+ (:y ball) dy))))\n\n; the more elegant way is by using destructuring:\n(defn next-ball [b [dx dy]]\n  (assoc b :x (+ (:x b) dx)\n           :y (+ (:y b) dy)))\n\n; usage:\n(next-ball {:x 0 :y 0 :w 10 :h 10} [1 -1])\n; =&gt; {:y -1, :x 1, :h 10, :w 10}\n\n\n;; a nice shade of grey.\n(defn draw []\n  (background 0x20)\n  (fill 0xff)\n  ; draw rackets\n  (draw-rect @r-left)\n  (draw-rect @r-right)\n  (draw-rect @ball)\n)\n\n(defn update []\n  ; move the ball into its direction\n  (swap! ball next-ball @ball-dir)\n  ; ball hit top or bottom border?\n  (when (or (&gt; (:y @ball) 200) (&lt; (:y @ball) 0))\n    ; invert y direction\n    (swap! ball-dir (fn [[x y]] [x (- y)])))\n\n  ; ball hit the left racket?\n  (when (rect-intersects r-left ball)\n    (let [t (hitfactor @r-left @ball)]\n      ; invert x direction, set y direction to hitfactor\n      (swap! ball-dir (fn [[x _]] [(- x) t]))))\n\n  ; ball hit the right racket?\n  (when (rect-intersects r-right ball)\n    (let [t (hitfactor @r-right @ball)]\n      ; invert x direction, set y direction to hitfactor\n      (swap! ball-dir (fn [[x _]] [(- x) t])))))\n\n(q/defsketch pong\n             :title \&quot;noobtuts.com 2d pong game\&quot;\n             :size [450 200]\n             :setup (fn [] (smooth) (no-stroke) (frame-rate 60))\n             :draw (fn [] (update) (draw))\n             :key-pressed key-pressed)\n\n&quot;, :offset 2792, :ns &quot;ping-pong&quot;} {:command &quot;(ping-pong/rect-intersects  (atom {:x 10 :y 65 :w 10 :h 70}) (atom {:x 225 :y 100 :w 10 :h 10}) )&quot;, :offset 97, :ns &quot;ping-pong&quot;} {:command &quot;(ping-pong/rect-intersects  (atom {:x 10 :y 65 :w 10 :h 70}) (atom {:x 10 :y 65 :w 10 :h 10}) )&quot;, :offset 95, :ns &quot;ping-pong&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core :as q]))\n\n\n\n(defn draw-rect [r]\n  (rect (:x r) (:y r) (:w r) (:h r)))\n(def r-left (atom {:x 10 :y 65 :w 10 :h 70}))\n(def r-right (atom {:x 430 :y 65 :w 10 :h 70}))\n(def ball (atom {:x 225 :y 100 :w 10 :h 10}))\n(def ball-dir (atom [1 0]))\n\n(defn hitfactor [r b]\n  (- (/ (- (:y b) (:y r))\n        (:h r))\n     0.5))\n\n(defn rect-intersects [racket position ball]\n  (let [left-position {\n                       :l1 {  :x (@racket :x) :y (@racket :y) }\n                       :r1 {  :x (+ (@racket :x) (@racket :w))  :y (+ (@racket :y) (@racket :h)) }\n                       :l2 {  :x (@ball :x)  :y (@ball :y) }\n                       :r2 {  :x (+ (@ball :x) (@ball :w))  :y (+ (@ball :y) (@ball :h)) }\n                      }\n        right-position {\n                       :l1 {  :x (@ball :x)  :y (@ball :y) }\n                       :r1 {  :x (+ (@ball :x) (@ball :w))  :y (+ (@ball :y) (@ball :h)) }\n                       :l2 {  :x (@racket :x) :y (@racket :y) }\n                       :r2 {  :x (+ (@racket :x) (@racket :w))  :y (+ (@racket :y) (@racket :h)) }\n                       }\n        positions (if (= position :left) left-position right-position)\n        ]\n\n    (cond\n      (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))  false\n      \n      (or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y))) false\n      :else true)\n    )\n  )\n\n(defn key-pressed []\n  (cond\n    ; left\n    (= (key-code) KeyEvent/VK_W)\n    (swap! r-left update-in [:y] dec)\n    (= (key-code) KeyEvent/VK_S)\n    (swap! r-left update-in [:y] inc)\n    ; right\n    (= (key-code) KeyEvent/VK_UP)\n    (swap! r-right update-in [:y] dec)\n    (= (key-code) KeyEvent/VK_DOWN)\n    (swap! r-right update-in [:y] inc)))\n\n; here is the easy way to do it:\n(defn next-ball [ball dir]\n  (let [dx (first dir)\n        dy (second dir)]\n    (assoc ball :x (+ (:x ball) dx)\n                :y (+ (:y ball) dy))))\n\n; the more elegant way is by using destructuring:\n(defn next-ball [b [dx dy]]\n  (assoc b :x (+ (:x b) dx)\n           :y (+ (:y b) dy)))\n\n; usage:\n(next-ball {:x 0 :y 0 :w 10 :h 10} [1 -1])\n; =&gt; {:y -1, :x 1, :h 10, :w 10}\n\n\n;; a nice shade of grey.\n(defn draw []\n  (background 0x20)\n  (fill 0xff)\n  ; draw rackets\n  (draw-rect @r-left)\n  (draw-rect @r-right)\n  (draw-rect @ball)\n)\n\n(defn update []\n  ; move the ball into its direction\n  (swap! ball next-ball @ball-dir)\n  ; ball hit top or bottom border?\n  (when (or (&gt; (:y @ball) 200) (&lt; (:y @ball) 0))\n    ; invert y direction\n    (swap! ball-dir (fn [[x y]] [x (- y)])))\n\n  ; ball hit the left racket?\n  (when (rect-intersects r-left :left ball)\n    (let [t (hitfactor @r-left @ball)]\n      ; invert x direction, set y direction to hitfactor\n      (swap! ball-dir (fn [[x _]] [(- x) t]))))\n\n  ; ball hit the right racket?\n  (when (rect-intersects r-right :right ball)\n    (let [t (hitfactor @r-right @ball)]\n      ; invert x direction, set y direction to hitfactor\n      (swap! ball-dir (fn [[x _]] [(- x) t])))))\n\n(q/defsketch pong\n             :title \&quot;noobtuts.com 2d pong game\&quot;\n             :size [450 200]\n             :setup (fn [] (smooth) (no-stroke) (frame-rate 60))\n             :draw (fn [] (update) (draw))\n             :key-pressed key-pressed)\n\n&quot;, :offset 3362, :ns &quot;ping-pong&quot;} {:command &quot;(ns ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:use [quil.core :as q]))\n\n\n\n(defn draw-rect [r]\n  (rect (:x r) (:y r) (:w r) (:h r)))\n(def r-left (atom {:x 10 :y 65 :w 10 :h 70}))\n(def r-right (atom {:x 430 :y 65 :w 10 :h 70}))\n(def ball (atom {:x 225 :y 100 :w 10 :h 10}))\n(def ball-dir (atom [1 0]))\n\n(defn hitfactor [r b]\n  (- (/ (- (:y b) (:y r))\n        (:h r))\n     0.5))\n\n(defn rect-intersects [racket position ball]\n  (let [left-position {\n                       :l1 {  :x (@racket :x) :y (@racket :y) }\n                       :r1 {  :x (@racket :w)  :y (@racket :h) }\n                       :l2 {  :x (@ball :x)  :y (@ball :y) }\n                       :r2 {  :x  (@ball :w)  :y (@ball :h) }\n                      }\n        right-position {\n                       :l1 {  :x (@ball :x)  :y (@ball :y) }\n                       :r1 {  :x (@ball :w)  :y  (@ball :h) }\n                       :l2 {  :x (@racket :x) :y (@racket :y) }\n                       :r2 {  :x  (@racket :w) :y (@racket :h) }\n                       }\n        positions (if (= position :left) left-position right-position)\n        ]\n\n    (cond\n      ;(or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))   false\n\n      ;(or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y))) false\n      :else true)\n    )\n  )\n\n(defn key-pressed []\n  (cond\n    ; left\n    (= (key-code) KeyEvent/VK_W)\n    (swap! r-left update-in [:y] dec)\n    (= (key-code) KeyEvent/VK_S)\n    (swap! r-left update-in [:y] inc)\n    ; right\n    (= (key-code) KeyEvent/VK_UP)\n    (swap! r-right update-in [:y] dec)\n    (= (key-code) KeyEvent/VK_DOWN)\n    (swap! r-right update-in [:y] inc)))\n\n; here is the easy way to do it:\n(defn next-ball [ball dir]\n  (let [dx (first dir)\n        dy (second dir)]\n    (assoc ball :x (+ (:x ball) dx)\n                :y (+ (:y ball) dy))))\n\n; the more elegant way is by using destructuring:\n(defn next-ball [b [dx dy]]\n  (assoc b :x (+ (:x b) dx)\n           :y (+ (:y b) dy)))\n\n; usage:\n(next-ball {:x 0 :y 0 :w 10 :h 10} [1 -1])\n; =&gt; {:y -1, :x 1, :h 10, :w 10}\n\n\n;; a nice shade of grey.\n(defn draw []\n  (background 0x20)\n  (fill 0xff)\n  ; draw rackets\n  (draw-rect @r-left)\n  (draw-rect @r-right)\n  (draw-rect @ball)\n)\n\n(defn update []\n  ; move the ball into its direction\n  (swap! ball next-ball @ball-dir)\n  ; ball hit top or bottom border?\n  (when (or (&gt; (:y @ball) 200) (&lt; (:y @ball) 0))\n    ; invert y direction\n    (swap! ball-dir (fn [[x y]] [x (- y)])))\n\n  ; ball hit the left racket?\n  (when (rect-intersects r-left :left ball)\n    (let [t (hitfactor @r-left @ball)]\n      ; invert x direction, set y direction to hitfactor\n      (swap! ball-dir (fn [[x _]] [(- x) t]))))\n\n  ; ball hit the right racket?\n  (when (rect-intersects r-right :right ball)\n    (let [t (hitfactor @r-right @ball)]\n      ; invert x direction, set y direction to hitfactor\n      (swap! ball-dir (fn [[x _]] [(- x) t])))))\n\n(q/defsketch pong\n             :title \&quot;noobtuts.com 2d pong game\&quot;\n             :size [450 200]\n             :setup (fn [] (smooth) (no-stroke) (frame-rate 60))\n             :draw (fn [] (update) (draw))\n             :key-pressed key-pressed)\n\n&quot;, :offset 3233, :ns &quot;ping-pong&quot;} {:command &quot;(defn rect-intersects [racket position ball]\n  (let [left-position {\n                       :l1 {  :x (@racket :x) :y (@racket :y) }\n                       :r1 {  :x (@racket :w)  :y (@racket :h) }\n                       :l2 {  :x (@ball :x)  :y (@ball :y) }\n                       :r2 {  :x  (@ball :w)  :y (@ball :h) }\n                       }\n        right-position {\n                        :l1 {  :x (@ball :x)  :y (@ball :y) }\n                        :r1 {  :x (@ball :w)  :y  (@ball :h) }\n                        :l2 {  :x (@racket :x) :y (@racket :y) }\n                        :r2 {  :x  (@racket :w) :y (@racket :h) }\n                        }\n        positions (if (= position :left) left-position right-position)\n        ]\n\n    (cond\n      (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))   false\n\n      (or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y))) false\n      :else true)\n    )\n  )&quot;, :offset 1009, :ns &quot;ping-pong&quot;} {:command &quot;(defn rect-intersects [racket position ball]\n  (let [left-position {\n                       :l1 {  :x (@racket :x) :y (@racket :y) }\n                       :r1 {  :x (@racket :w)  :y (@racket :h) }\n                       :l2 {  :x (@ball :x)  :y (@ball :y) }\n                       :r2 {  :x  (@ball :w)  :y (@ball :h) }\n                       }\n        right-position {\n                        :l1 {  :x (@ball :x)  :y (@ball :y) }\n                        :r1 {  :x (@ball :w)  :y  (@ball :h) }\n                        :l2 {  :x (@racket :x) :y (@racket :y) }\n                        :r2 {  :x  (@racket :w) :y (@racket :h) }\n                        }\n        positions (if (= position :left) left-position right-position)\n        ]\n\n    (cond\n      (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))   { \&quot;(or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x))) \&quot; (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))}\n\n      (or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y))) false\n      :else true)\n    )\n  )&quot;, :offset 1219, :ns &quot;ping-pong&quot;} {:command &quot;(defn rect-intersects [racket position ball]\n  (let [left-position {\n                       :l1 {  :x (@racket :x) :y (@racket :y) }\n                       :r1 {  :x (@racket :w)  :y (@racket :h) }\n                       :l2 {  :x (@ball :x)  :y (@ball :y) }\n                       :r2 {  :x  (@ball :w)  :y (@ball :h) }\n                       }\n        right-position {\n                        :l1 {  :x (@ball :x)  :y (@ball :y) }\n                        :r1 {  :x (@ball :w)  :y  (@ball :h) }\n                        :l2 {  :x (@racket :x) :y (@racket :y) }\n                        :r2 {  :x  (@racket :w) :y (@racket :h) }\n                        }\n        positions (if (= position :left) left-position right-position)\n        ]\n\n    (cond\n      (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))   { \&quot;(or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x))) \&quot; (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))}\n\n      (or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y))) {\&quot;(or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y)))\&quot; (or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y)))}\n      :else true)\n    )\n  \n  )&quot;, :offset 1430, :ns &quot;ping-pong&quot;} {:command &quot;(defn rect-intersects [racket position ball]\n  (let [left-position {\n                       :l1 {  :x (@racket :x) :y (@racket :y) }\n                       :r1 {  :x (@racket :w)  :y (@racket :h) }\n                       :l2 {  :x (@ball :x)  :y (@ball :y) }\n                       :r2 {  :x  (@ball :w)  :y (@ball :h) }\n                       }\n        right-position {\n                        :l1 {  :x (@ball :x)  :y (@ball :y) }\n                        :r1 {  :x (@ball :w)  :y  (@ball :h) }\n                        :l2 {  :x (@racket :x) :y (@racket :y) }\n                        :r2 {  :x  (@racket :w) :y (@racket :h) }\n                        }\n        positions (if (= position :left) left-position right-position)\n        ]\n\n    (cond\n      (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))   { \&quot;(or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x))) \&quot; (or (&gt; (-&gt;&gt; positions :l1 :x) (-&gt;&gt; positions :r2 :x)) (&gt; (-&gt;&gt; positions :l2 :x) (-&gt;&gt; positions :r1 :x)))}\n\n      (or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y))) {\&quot;(or (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y)) (&lt; (-&gt;&gt; positions :l2 :y) (-&gt;&gt; positions :r1 :y)))\&quot; (&lt; (-&gt;&gt; positions :l1 :y) (-&gt;&gt; positions :r2 :y))}\n      :else true)\n    )\n  \n  )&quot;, :offset 1375, :ns &quot;ping-pong&quot;} {:command &quot;(&lt; 2 3)&quot;, :offset 7, :ns &quot;ping-pong&quot;} {:command &quot;(rect-intersects (atom {:x 10 :y 65 :w 10 :h 70}) :left  (atom {:x 10 :y 65 :w 10 :h 10}) )&quot;, :offset 91, :ns &quot;ping-pong&quot;} {:command &quot;(rect-intersects (atom {:x 10 :y 65 :w 10 :h 70}) :left  (atom {:x 10 :y 65 :w 10 :h 70}) )&quot;, :offset 91, :ns &quot;ping-pong&quot;} {:command &quot;(rect-intersects (atom {:x 10 :y 65 :w 10 :h 70}) :left  (atom {:x 100 :y 650 :w 10 :h 70}) )&quot;, :offset 93, :ns &quot;ping-pong&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             \&quot;{\\\&quot;json\\\&quot;: \\\&quot;illlllllllllnput\\\&quot;}\&quot;\n                                              :params             {:foo \&quot;bar\&quot;}\n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 414, :ns &quot;user&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             \&quot;{\\\&quot;json\\\&quot;: \\\&quot;illlllllllllnput\\\&quot;}\&quot;\n                                              :insecure? true\n                                              :params             {:foo \&quot;bar\&quot;}\n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 476, :ns &quot;user&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             \&quot;{\\\&quot;json\\\&quot;: \\\&quot;illlllllllllnput\\\&quot;}\&quot;\n                                              :insecure? true\n                                              :form-params             {:foo \&quot;bar\&quot;}\n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 481, :ns &quot;user&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             \&quot;{\\\&quot;json\\\&quot;: \\\&quot;illlllllllllnput\\\&quot;}\&quot;\n                                              :insecure? true\n                                              :query-params            (clojure.data.json/write-str  {:foo \&quot;bar\&quot;}) \n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 513, :ns &quot;user&quot;} {:command &quot;(ns clj.server\n  (:require [org.httpkit.server :refer [run-server]]\n            [clojure.data.json :as json]\n            [clj.ping-pong :as ping-pong])\n  (:use [compojure.route :only [files not-found]]\n        [compojure.core :only [defroutes GET POST DELETE ANY context]]\n        org.httpkit.server)\n  )&quot;, :offset 304, :ns &quot;clj.server&quot;} {:command &quot;(require '[clj-http.client :as client])&quot;, :offset 39, :ns &quot;clj.server&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             \&quot;{\\\&quot;json\\\&quot;: \\\&quot;illlllllllllnput\\\&quot;}\&quot;\n                                              :insecure? true\n                                              :query-params            (clojure.data.json/write-str  {:foo \&quot;bar\&quot;})\n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 512, :ns &quot;clj.server&quot;} {:command &quot;(clojure.data.json/write-str  {:foo \&quot;bar\&quot;})&quot;, :offset 43, :ns &quot;clj.server&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             (clojure.data.json/write-str  {:foo \&quot;bar\&quot;}) \n                                              :insecure? true\n                                              :query-params            {:foo \&quot;bar\&quot;}\n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 491, :ns &quot;clj.server&quot;} {:command &quot;(client/post \&quot;http://localhost:8080/history\&quot; {  :body             (clojure.data.json/write-str  {:foo \&quot;bar\&quot;}) \n                                              :insecure? true\n                                              :socket-timeout     1000      ;; in milliseconds\n                                              :connection-timeout 1000  ;; in milliseconds\n                                              })&quot;, :offset 407, :ns &quot;clj.server&quot;} {:command &quot;(+ 2 2)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(ns clj.ping-pong\n  (:import [java.awt.event KeyEvent])\n  (:require [clj-http.client :as client]\n            [clojure.data.json :as json])\n  (:use [quil.core :as q]))&quot;, :offset 166, :ns &quot;user&quot;} {:command &quot;(key-pressed)&quot;, :offset 13, :ns &quot;clj.ping-pong&quot;} {:command &quot;(def c (chan))&quot;, :offset 14, :ns &quot;clj.ping-pong&quot;} {:command &quot;(clojure.core.async/chan)&quot;, :offset 25, :ns &quot;clj.ping-pong&quot;} {:command &quot;('clojure.core.async/chan)&quot;, :offset 26, :ns &quot;clj.ping-pong&quot;} {:command &quot;(require '[clojure.core.async :as async :refer :all])&quot;, :offset 53, :ns &quot;clj.ping-pong&quot;} {:command &quot;(:require '[clojure.core.async :as async :refer :all])&quot;, :offset 54, :ns &quot;clj.ping-pong&quot;} {:command &quot;async&quot;, :offset 5, :ns &quot;clj.ping-pong&quot;} {:command &quot;async/chan&quot;, :offset 10, :ns &quot;clj.ping-pong&quot;} {:command &quot;(def c (chan/chan 1)) &quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(&gt;!! c \&quot;hello\&quot;)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(chan/&gt;!! c \&quot;hello\&quot;)&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(chan/&gt;!! c \&quot;hello 3\&quot;)&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(chan/&gt;!! c \&quot;hello 2\&quot;)&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(chan/&gt;!! c \&quot;hello 1\&quot;)&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(chan/&lt;!! c )&quot;, :offset 13, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.Unnamed">
+    <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="Glassjaw" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <shortenClasspath name="NONE" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clj.server (1)" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="Glassjaw" />
+      <setting name="path" value="$PROJECT_DIR$/src/clj/server.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/clj" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clj.server" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="Glassjaw" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="clj.server" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ping-pong" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="glassjaw" />
+      <setting name="path" value="$PROJECT_DIR$/ping_pong.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ping_pong" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="glassjaw" />
+      <setting name="path" value="$PROJECT_DIR$/src/ping_pong.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="glassjaw" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="glassjaw" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.ping-pong" />
+      <item itemvalue="Clojure Application.ping_pong" />
+      <item itemvalue="Clojure Application.clj.server" />
+      <item itemvalue="Clojure Application.clj.server (1)" />
+      <item itemvalue="Clojure REPL.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.clj.server" />
+        <item itemvalue="Clojure Application.clj.server (1)" />
+        <item itemvalue="Clojure Application.ping_pong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ca63ff2-26f0-448b-b166-ee8b5ac48976" name="Default Changelist" comment="" />
+      <created>1578732938796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578732938796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" width="828" height="681" key="#Project_Structure" timestamp="1578733332779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" width="828" height="681" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578733332779" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578871552425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578871552425" />
+    <state x="664" y="14" key="#ping-pong" timestamp="1578733706966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="14" key="#ping-pong/0.0.1920.1040@0.0.1920.1040" timestamp="1578733706966" />
+    <state x="664" y="26" key="#ping_pong" timestamp="1578737530980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="26" key="#ping_pong/0.0.1920.1040@0.0.1920.1040" timestamp="1578737530980" />
+    <state x="783" y="392" width="906" height="592" key="#xdebugger.evaluate" timestamp="1580361726217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="392" width="906" height="592" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1580361726217" />
+    <state width="654" height="466" key="DebuggerActiveHint" timestamp="1578887178890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="654" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1578887178890" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1580433926748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580433926748" />
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579338601214" />
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579338601214" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579338601214" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579338601214" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state width="1877" height="335" key="GridCell.Tab.1.bottom" timestamp="1580433560925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560925" />
+    <state width="1877" height="335" key="GridCell.Tab.1.center" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state width="1877" height="335" key="GridCell.Tab.1.left" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state width="1877" height="335" key="GridCell.Tab.1.right" timestamp="1580433560924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580433560924" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1579333832596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579333832596" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578733681273" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580434267167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580434267167" />
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580355301037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="437" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579333851161" />
+    <state x="655" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580355301037" />
+    <state x="537" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578887685239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="257" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1578887685239" />
+    <state x="342" y="245" key="new project wizard" timestamp="1578738904980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="245" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578738904980" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1580433512688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580433512688" />
+    <state x="293" y="1" width="693" height="678" key="search.everywhere.popup" timestamp="1579331059114">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="293" y="1" width="693" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579331059114" />
+  </component>
+</project>

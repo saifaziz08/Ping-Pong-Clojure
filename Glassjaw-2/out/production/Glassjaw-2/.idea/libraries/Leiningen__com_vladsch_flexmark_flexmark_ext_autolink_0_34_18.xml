@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.vladsch.flexmark/flexmark-ext-autolink:0.34.18">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-ext-autolink/0.34.18/flexmark-ext-autolink-0.34.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
